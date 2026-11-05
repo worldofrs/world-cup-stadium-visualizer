@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>World Cup Stadium Visualizer</title>
+
+  <!--
+    1. The CSS — styles Cesium's built-in UI widgets (navigation, timeline, etc.)
+    2. The JS — the actual library (~3MB, it's big because it includes a WebGL rendering engine)
+  -->
+  <link rel="stylesheet" href="https://cesium.com/downloads/cesiumjs/releases/1.122/Build/Cesium/Widgets/widgets.css">
+  <script src="https://cesium.com/downloads/cesiumjs/releases/1.122/Build/Cesium/Cesium.js"></script>
+
+  <style>
+    /*
+      The Cesium viewer needs an explicit size. It renders into a <div>,
+      and if that div has no height, you get a blank page.
+      We make it fill the entire browser window.
+    */
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    #cesiumContainer {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- This div is where Cesium renders the 3D globe -->
+  <div id="cesiumContainer"></div>
+
+  <script>
+    // STEP 1: Authenticate with Cesium ion
+    // This token tells ion's servers "this app is allowed to pull my imagery/terrain tiles."
+    // Without it, you'd get a blank globe with no satellite photos or elevation.
+    Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJjYjM5MGRlMC1kMWZhLTQxNWYtODNlOS05MzFkMTk4Y2M3NzAiLCJpZCI6NDYyODk1LCJpc3MiOiJodHRwczovL2FwaS5jZXNpdW0uY29tIiwiYXVkIjoidW5kZWZpbmVkX2RlZmF1bHQiLCJpYXQiOjE3ODU1OTM2NDN9.8AtVNrEpwYIy4b_V42x-xBWunOd2m__gs0AJtWY2ZqU';
+
+    // STEP 2: Create the Viewer
+    // The Viewer is Cesium's top-level object. It creates:
+    //   - A WebGL canvas that renders the 3D globe
+    //   - A scene graph (manages what's drawn and in what order)
+    //   - A camera (your viewpoint — you can fly it anywhere)
+    //   - Built-in UI widgets (home button, geocoder, timeline, etc.)
+    //
+    // The first argument is the ID of the div to render into.
+    // The second argument is an options object — we'll keep it minimal for now.
+    const viewer = new Cesium.Viewer('cesiumContainer', {
+      // Terrain: this makes the Earth's surface have actual elevation
+      // Asset ID 1 is "Cesium World Terrain" — a global elevation dataset.
+      terrain: Cesium.Terrain.fromWorldTerrain(),
+    });
+
+    Cesium.GeoJsonDataSource.load('data/stadiums.geojson').then(function(dataSource) {
+      viewer.dataSources.add(dataSource)
+
+      let entities = dataSource.entities.values;
+      for (let i = 0; i < entities.length; i++) {
+        let entity = entities[i];
+        let properties = entity.properties;
+        
+        // remove default pin
+        entity.billboard = undefined;
+
+        // add a point
+        entity.point = new Cesium.PointGraphics({
+          pixelSize: 10,
+          color: Cesium.Color.RED,
+        });
+      }
+      viewer.zoomTo(dataSource);
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,4325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1913095,
+          -34.9058916
+        ]
+      },
+      "properties": {
+        "name": "Estadio Pocitos",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "capacity": 10000,
+        "tournaments": "1930 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1587294,
+          -34.8844576
+        ]
+      },
+      "properties": {
+        "name": "Estadio Gran Parque Central",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "capacity": 20000,
+        "tournaments": "1930 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1526841,
+          -34.8945392
+        ]
+      },
+      "properties": {
+        "name": "Estadio Centenario",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "capacity": 90000,
+        "tournaments": "1930 FIFA Men's World Cup",
+        "match_count": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6824892,
+          45.0677551
+        ]
+      },
+      "properties": {
+        "name": "Stadio Benito Mussolini",
+        "city": "Turin",
+        "country": "Italy",
+        "capacity": 28000,
+        "tournaments": "1934 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7941502,
+          45.6239473
+        ]
+      },
+      "properties": {
+        "name": "Stadio Littorio",
+        "city": "Trieste",
+        "country": "Italy",
+        "capacity": 8000,
+        "tournaments": "1934 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2828191,
+          43.7808838
+        ]
+      },
+      "properties": {
+        "name": "Stadio Giovanni Berta",
+        "city": "Florence",
+        "country": "Italy",
+        "capacity": 47000,
+        "tournaments": "1934 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2487679,
+          40.8358846
+        ]
+      },
+      "properties": {
+        "name": "Stadio Giorgio Ascarelli",
+        "city": "Naples",
+        "country": "Italy",
+        "capacity": 40000,
+        "tournaments": "1934 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4829321,
+          41.8933203
+        ]
+      },
+      "properties": {
+        "name": "Stadio Nazionale PNF",
+        "city": "Rome",
+        "country": "Italy",
+        "capacity": 47000,
+        "tournaments": "1934 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9525341,
+          44.4164753
+        ]
+      },
+      "properties": {
+        "name": "Stadio Luigi Ferraris",
+        "city": "Genoa",
+        "country": "Italy",
+        "capacity": 37000,
+        "tournaments": "1934 FIFA Men's World Cup; 1990 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3099971,
+          44.492317
+        ]
+      },
+      "properties": {
+        "name": "Stadio Renato Dall'Ara",
+        "city": "Bologna",
+        "country": "Italy",
+        "capacity": 50000,
+        "tournaments": "1934 FIFA Men's World Cup; 1990 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.123964,
+          45.4782003
+        ]
+      },
+      "properties": {
+        "name": "San Siro",
+        "city": "Milan",
+        "country": "Italy",
+        "capacity": 75000,
+        "tournaments": "1934 FIFA Men's World Cup; 1990 FIFA Men's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2530693,
+          48.8413634
+        ]
+      },
+      "properties": {
+        "name": "Parc des Princes",
+        "city": "Paris",
+        "country": "France",
+        "capacity": 49000,
+        "tournaments": "1938 FIFA Men's World Cup; 1998 FIFA Men's World Cup; 2019 FIFA Women's World Cup",
+        "match_count": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4442433,
+          43.6044638
+        ]
+      },
+      "properties": {
+        "name": "Stade du T.O.E.C.",
+        "city": "Toulouse",
+        "country": "France",
+        "capacity": 15000,
+        "tournaments": "1938 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.320041,
+          48.8588897
+        ]
+      },
+      "properties": {
+        "name": "Stade Olympique de Colombes",
+        "city": "Paris",
+        "country": "France",
+        "capacity": 60000,
+        "tournaments": "1938 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.031926,
+          49.2577886
+        ]
+      },
+      "properties": {
+        "name": "V\u00e9lodrome Municipal",
+        "city": "Reims",
+        "country": "France",
+        "capacity": 22000,
+        "tournaments": "1938 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3959082,
+          43.2698474
+        ]
+      },
+      "properties": {
+        "name": "Stade V\u00e9lodrome",
+        "city": "Marseille",
+        "country": "France",
+        "capacity": 60000,
+        "tournaments": "1938 FIFA Men's World Cup; 1998 FIFA Men's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7551221,
+          48.5599481
+        ]
+      },
+      "properties": {
+        "name": "Stade de la Meinau",
+        "city": "Strasbourg",
+        "country": "France",
+        "capacity": 30000,
+        "tournaments": "1938 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1711773,
+          49.5017357
+        ]
+      },
+      "properties": {
+        "name": "Stade Jules Deschaseaux",
+        "city": "Le Havre",
+        "country": "France",
+        "capacity": 22000,
+        "tournaments": "1938 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5800364,
+          44.841225
+        ]
+      },
+      "properties": {
+        "name": "Stade du Parc Lescure",
+        "city": "Bordeaux",
+        "country": "France",
+        "capacity": 35000,
+        "tournaments": "1938 FIFA Men's World Cup; 1998 FIFA Men's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0635282,
+          50.6365654
+        ]
+      },
+      "properties": {
+        "name": "Stade Victor Boucquey",
+        "city": "Lille",
+        "country": "France",
+        "capacity": 15000,
+        "tournaments": "1938 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1254181,
+          43.5909793
+        ]
+      },
+      "properties": {
+        "name": "Stade du Fort Carr\u00e9",
+        "city": "Antibes",
+        "country": "France",
+        "capacity": 7000,
+        "tournaments": "1938 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2311861,
+          -22.9121619
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio do Maracan\u00e3",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "capacity": 200000,
+        "tournaments": "1950 FIFA Men's World Cup; 2014 FIFA Men's World Cup",
+        "match_count": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.917778,
+          -19.9083526
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio Independ\u00eancia",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "capacity": 30000,
+        "tournaments": "1950 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2558444,
+          -25.4393937
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio Vila Capanema",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "capacity": 10000,
+        "tournaments": "1950 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6653519,
+          -23.5485641
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio do Pacaembu",
+        "city": "S\u00e3o Paulo",
+        "country": "Brazil",
+        "capacity": 60000,
+        "tournaments": "1950 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.227347,
+          -30.0617155
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio dos Eucaliptos",
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "capacity": 20000,
+        "tournaments": "1950 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9036005,
+          -8.0630099
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio Ilha do Retiro",
+        "city": "Recife",
+        "country": "Brazil",
+        "capacity": 30000,
+        "tournaments": "1950 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1466014,
+          46.2017559
+        ]
+      },
+      "properties": {
+        "name": "Charmilles Stadium",
+        "city": "Geneva",
+        "country": "Switzerland",
+        "capacity": 36000,
+        "tournaments": "1954 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6243167,
+          46.5332284
+        ]
+      },
+      "properties": {
+        "name": "Stade Olympique de la Pontaise",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "capacity": 50000,
+        "tournaments": "1954 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5410422,
+          47.3744489
+        ]
+      },
+      "properties": {
+        "name": "Hardturm Stadium",
+        "city": "Z\u00fcrich",
+        "country": "Switzerland",
+        "capacity": 35000,
+        "tournaments": "1954 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4648638,
+          46.9631042
+        ]
+      },
+      "properties": {
+        "name": "Wankdorf Stadium",
+        "city": "Bern",
+        "country": "Switzerland",
+        "capacity": 65000,
+        "tournaments": "1954 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6201249,
+          47.5416464
+        ]
+      },
+      "properties": {
+        "name": "St. Jakob Stadium",
+        "city": "Basel",
+        "country": "Switzerland",
+        "capacity": 55000,
+        "tournaments": "1954 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9611777,
+          46.0238282
+        ]
+      },
+      "properties": {
+        "name": "Cornaredo Stadium",
+        "city": "Lugano",
+        "country": "Switzerland",
+        "capacity": 36000,
+        "tournaments": "1954 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.016667,
+          59.366667
+        ]
+      },
+      "properties": {
+        "name": "R\u00e5sunda Stadium",
+        "city": "Solna",
+        "country": "Sweden",
+        "capacity": 52000,
+        "tournaments": "1958 FIFA Men's World Cup; 1995 FIFA Women's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9893554,
+          55.5859136
+        ]
+      },
+      "properties": {
+        "name": "Malm\u00f6 Stadion",
+        "city": "Malm\u00f6",
+        "country": "Sweden",
+        "capacity": 30000,
+        "tournaments": "1958 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8679973,
+          56.6849037
+        ]
+      },
+      "properties": {
+        "name": "\u00d6rjans Vall",
+        "city": "Halmstad",
+        "country": "Sweden",
+        "capacity": 15000,
+        "tournaments": "1958 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1720584,
+          58.5843928
+        ]
+      },
+      "properties": {
+        "name": "Idrottsparken",
+        "city": "Norrk\u00f6ping",
+        "country": "Sweden",
+        "capacity": 20000,
+        "tournaments": "1958 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5406131,
+          59.6204024
+        ]
+      },
+      "properties": {
+        "name": "Arosvallen",
+        "city": "V\u00e4ster\u00e5s",
+        "country": "Sweden",
+        "capacity": 10000,
+        "tournaments": "1958 FIFA Men's World Cup; 1995 FIFA Women's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7724836,
+          60.6081312
+        ]
+      },
+      "properties": {
+        "name": "Jernvallen",
+        "city": "Sandviken",
+        "country": "Sweden",
+        "capacity": 20000,
+        "tournaments": "1958 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9492993,
+          58.3570576
+        ]
+      },
+      "properties": {
+        "name": "Rimnersvallen",
+        "city": "Uddevalla",
+        "country": "Sweden",
+        "capacity": 18000,
+        "tournaments": "1958 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9873276,
+          57.7059197
+        ]
+      },
+      "properties": {
+        "name": "Ullevi",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "capacity": 54000,
+        "tournaments": "1958 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7077617,
+          56.0499907
+        ]
+      },
+      "properties": {
+        "name": "Olympia",
+        "city": "Helsingborg",
+        "country": "Sweden",
+        "capacity": 27000,
+        "tournaments": "1958 FIFA Men's World Cup; 1995 FIFA Women's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9349295,
+          57.7357069
+        ]
+      },
+      "properties": {
+        "name": "Ryavallen",
+        "city": "Bor\u00e5s",
+        "country": "Sweden",
+        "capacity": 15000,
+        "tournaments": "1958 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2151181,
+          59.2747287
+        ]
+      },
+      "properties": {
+        "name": "Eyravallen",
+        "city": "\u00d6rebro",
+        "country": "Sweden",
+        "capacity": 13000,
+        "tournaments": "1958 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4959531,
+          59.3706685
+        ]
+      },
+      "properties": {
+        "name": "Tunavallen",
+        "city": "Eskilstuna",
+        "country": "Sweden",
+        "capacity": 22000,
+        "tournaments": "1958 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2991206,
+          -18.4874603
+        ]
+      },
+      "properties": {
+        "name": "Estadio Carlos Dittborn",
+        "city": "Arica",
+        "country": "Chile",
+        "capacity": 18000,
+        "tournaments": "1962 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6062176,
+          -33.4623809
+        ]
+      },
+      "properties": {
+        "name": "Estadio Nacional",
+        "city": "Santiago",
+        "country": "Chile",
+        "capacity": 67000,
+        "tournaments": "1962 FIFA Men's World Cup",
+        "match_count": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5341445,
+          -33.0144473
+        ]
+      },
+      "properties": {
+        "name": "Estadio Sausalito",
+        "city": "Vi\u00f1a del Mar",
+        "country": "Chile",
+        "capacity": 18000,
+        "tournaments": "1962 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7375478,
+          -34.1778095
+        ]
+      },
+      "properties": {
+        "name": "Estadio El Teniente",
+        "city": "Rancagua",
+        "country": "Chile",
+        "capacity": 18000,
+        "tournaments": "1962 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2796034,
+          51.5560695
+        ]
+      },
+      "properties": {
+        "name": "Wembley Stadium",
+        "city": "London",
+        "country": "England",
+        "capacity": 99000,
+        "tournaments": "1966 FIFA Men's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5006311,
+          53.411379
+        ]
+      },
+      "properties": {
+        "name": "Hillsborough Stadium",
+        "city": "Sheffield",
+        "country": "England",
+        "capacity": 43000,
+        "tournaments": "1966 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9664193,
+          53.4386898
+        ]
+      },
+      "properties": {
+        "name": "Goodison Park",
+        "city": "Liverpool",
+        "country": "England",
+        "capacity": 50000,
+        "tournaments": "1966 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2421523,
+          54.566736
+        ]
+      },
+      "properties": {
+        "name": "Ayresome Park",
+        "city": "Middlesbrough",
+        "country": "England",
+        "capacity": 40000,
+        "tournaments": "1966 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8850354,
+          52.5091264
+        ]
+      },
+      "properties": {
+        "name": "Villa Park",
+        "city": "Birmingham",
+        "country": "England",
+        "capacity": 52000,
+        "tournaments": "1966 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2913865,
+          53.4631096
+        ]
+      },
+      "properties": {
+        "name": "Old Trafford",
+        "city": "Manchester",
+        "country": "England",
+        "capacity": 58000,
+        "tournaments": "1966 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3701154,
+          54.9238049
+        ]
+      },
+      "properties": {
+        "name": "Roker Park",
+        "city": "Sunderland",
+        "country": "England",
+        "capacity": 40000,
+        "tournaments": "1966 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277653,
+          51.5074456
+        ]
+      },
+      "properties": {
+        "name": "White City Stadium",
+        "city": "London",
+        "country": "England",
+        "capacity": 77000,
+        "tournaments": "1966 FIFA Men's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15047,
+          19.3029794
+        ]
+      },
+      "properties": {
+        "name": "Estadio Azteca",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "capacity": 115000,
+        "tournaments": "1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup",
+        "match_count": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1643653,
+          19.0780308
+        ]
+      },
+      "properties": {
+        "name": "Estadio Cuauht\u00e9moc",
+        "city": "Puebla",
+        "country": "Mexico",
+        "capacity": 46000,
+        "tournaments": "1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3276735,
+          20.7047861
+        ]
+      },
+      "properties": {
+        "name": "Estadio Jalisco",
+        "city": "Guadalajara",
+        "country": "Mexico",
+        "capacity": 71000,
+        "tournaments": "1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup",
+        "match_count": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8320114,
+          45.7578137
+        ]
+      },
+      "properties": {
+        "name": "Estadio Nou Camp",
+        "city": "Le\u00f3n",
+        "country": "Mexico",
+        "capacity": 31000,
+        "tournaments": "1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup",
+        "match_count": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6569007,
+          19.292545
+        ]
+      },
+      "properties": {
+        "name": "La Bombonera",
+        "city": "Toluca",
+        "country": "Mexico",
+        "capacity": 33000,
+        "tournaments": "1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6454154,
+          50.0686103
+        ]
+      },
+      "properties": {
+        "name": "Waldstadion",
+        "city": "Frankfurt",
+        "country": "Germany",
+        "capacity": 62000,
+        "tournaments": "1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup; 2011 FIFA Women's World Cup",
+        "match_count": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2398144,
+          52.5145846
+        ]
+      },
+      "properties": {
+        "name": "Olympiastadion",
+        "city": "Berlin",
+        "country": "Germany",
+        "capacity": 86000,
+        "tournaments": "1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup; 2011 FIFA Women's World Cup",
+        "match_count": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8987056,
+          53.5871535
+        ]
+      },
+      "properties": {
+        "name": "Volksparkstadion",
+        "city": "Hamburg",
+        "country": "Germany",
+        "capacity": 61000,
+        "tournaments": "1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4518549,
+          51.4924922
+        ]
+      },
+      "properties": {
+        "name": "Westfalenstadion",
+        "city": "Dortmund",
+        "country": "Germany",
+        "capacity": 65000,
+        "tournaments": "1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup",
+        "match_count": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7288587,
+          51.2632069
+        ]
+      },
+      "properties": {
+        "name": "Rheinstadion",
+        "city": "D\u00fcsseldorf",
+        "country": "Germany",
+        "capacity": 70000,
+        "tournaments": "1974 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7310161,
+          52.360026
+        ]
+      },
+      "properties": {
+        "name": "Niedersachsenstadion",
+        "city": "Hanover",
+        "country": "Germany",
+        "capacity": 60000,
+        "tournaments": "1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5464786,
+          48.1731314
+        ]
+      },
+      "properties": {
+        "name": "Olympiastadion",
+        "city": "Munich",
+        "country": "Germany",
+        "capacity": 78000,
+        "tournaments": "1974 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2320857,
+          48.7922488
+        ]
+      },
+      "properties": {
+        "name": "Neckarstadion",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "capacity": 72000,
+        "tournaments": "1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup",
+        "match_count": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0675771,
+          51.5592587
+        ]
+      },
+      "properties": {
+        "name": "Parkstadion",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "capacity": 72000,
+        "tournaments": "1974 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4497385,
+          -34.5452932
+        ]
+      },
+      "properties": {
+        "name": "Estadio Monumental",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "capacity": 75000,
+        "tournaments": "1978 FIFA Men's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5824062,
+          -38.0178995
+        ]
+      },
+      "properties": {
+        "name": "Estadio Jos\u00e9 Mar\u00eda Minella",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "capacity": 44000,
+        "tournaments": "1978 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.674499,
+          -32.914023
+        ]
+      },
+      "properties": {
+        "name": "Estadio Gigante de Arroyito",
+        "city": "Rosario",
+        "country": "Argentina",
+        "capacity": 46000,
+        "tournaments": "1978 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5206788,
+          -34.6353382
+        ]
+      },
+      "properties": {
+        "name": "Estadio Jos\u00e9 Amalfitani",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "capacity": 49000,
+        "tournaments": "1978 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.879901,
+          -32.889678
+        ]
+      },
+      "properties": {
+        "name": "Estadio Ciudad de Mendoza",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "capacity": 35000,
+        "tournaments": "1978 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7760138,
+          37.8845813
+        ]
+      },
+      "properties": {
+        "name": "Estadio Chateau Carreras",
+        "city": "C\u00f3rdoba",
+        "country": "Argentina",
+        "capacity": 47000,
+        "tournaments": "1978 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1156486,
+          41.3807783
+        ]
+      },
+      "properties": {
+        "name": "Camp Nou",
+        "city": "Barcelona",
+        "country": "Spain",
+        "capacity": 121000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7440784,
+          42.2114076
+        ]
+      },
+      "properties": {
+        "name": "Bala\u00eddos",
+        "city": "Vigo",
+        "country": "Spain",
+        "capacity": 33000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9706309,
+          37.3840876
+        ]
+      },
+      "properties": {
+        "name": "Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+        "city": "Seville",
+        "country": "Spain",
+        "capacity": 68000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4175098,
+          43.3687157
+        ]
+      },
+      "properties": {
+        "name": "Estadio Riazor",
+        "city": "A Coru\u00f1a",
+        "country": "Spain",
+        "capacity": 34000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6988391,
+          38.2653307
+        ]
+      },
+      "properties": {
+        "name": "Nuevo Estadio",
+        "city": "Elche",
+        "country": "Spain",
+        "capacity": 53000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4265346,
+          36.7349435
+        ]
+      },
+      "properties": {
+        "name": "Estadio La Rosaleda",
+        "city": "M\u00e1laga",
+        "country": "Spain",
+        "capacity": 45000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6374766,
+          43.5362711
+        ]
+      },
+      "properties": {
+        "name": "Estadio El Molin\u00f3n",
+        "city": "Gij\u00f3n",
+        "country": "Spain",
+        "capacity": 45000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9493915,
+          43.264204
+        ]
+      },
+      "properties": {
+        "name": "Estadio San Mam\u00e9s",
+        "city": "Bilbao",
+        "country": "Spain",
+        "capacity": 46000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3763353,
+          39.4697065
+        ]
+      },
+      "properties": {
+        "name": "Estadio Luis Casanova",
+        "city": "Valencia",
+        "country": "Spain",
+        "capacity": 50000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8703316,
+          43.3608716
+        ]
+      },
+      "properties": {
+        "name": "Estadio Carlos Tartiere",
+        "city": "Oviedo",
+        "country": "Spain",
+        "capacity": 24000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7612638,
+          41.6445789
+        ]
+      },
+      "properties": {
+        "name": "Estadio Jos\u00e9 Zorrilla",
+        "city": "Valladolid",
+        "country": "Spain",
+        "capacity": 30000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9010138,
+          41.6430344
+        ]
+      },
+      "properties": {
+        "name": "Estadio La Romareda",
+        "city": "Zaragoza",
+        "country": "Spain",
+        "capacity": 42000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4925974,
+          38.3573459
+        ]
+      },
+      "properties": {
+        "name": "Estadio Jos\u00e9 Rico P\u00e9rez",
+        "city": "Alicante",
+        "country": "Spain",
+        "capacity": 33000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9809176,
+          37.3564503
+        ]
+      },
+      "properties": {
+        "name": "Estadio Benito Villamar\u00edn",
+        "city": "Seville",
+        "country": "Spain",
+        "capacity": 50000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703507,
+          40.416782
+        ]
+      },
+      "properties": {
+        "name": "Vicente Calder\u00f3n",
+        "city": "Madrid",
+        "country": "Spain",
+        "capacity": 66000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1126629,
+          41.3802235
+        ]
+      },
+      "properties": {
+        "name": "Estadi de Sarri\u00e0",
+        "city": "Barcelona",
+        "country": "Spain",
+        "capacity": 40000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.688197,
+          40.4530437
+        ]
+      },
+      "properties": {
+        "name": "Estadio Santiago Bernab\u00e9u",
+        "city": "Madrid",
+        "country": "Spain",
+        "capacity": 90000,
+        "tournaments": "1982 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1922864,
+          19.3316881
+        ]
+      },
+      "properties": {
+        "name": "Estadio Ol\u00edmpico Universitario",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "capacity": 72000,
+        "tournaments": "1986 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.356357,
+          20.6844987
+        ]
+      },
+      "properties": {
+        "name": "Estadio Sergio Le\u00f3n Chavez",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "capacity": 31000,
+        "tournaments": "1986 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.315258,
+          25.6802019
+        ]
+      },
+      "properties": {
+        "name": "Estadio Universitario",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "capacity": 44000,
+        "tournaments": "1986 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.338396,
+          20.6720375
+        ]
+      },
+      "properties": {
+        "name": "Estadio Tres de Marzo",
+        "city": "Guadalajara",
+        "country": "Mexico",
+        "capacity": 30000,
+        "tournaments": "1986 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.315258,
+          25.6802019
+        ]
+      },
+      "properties": {
+        "name": "Estadio Tecnol\u00f3gico",
+        "city": "Monterrey",
+        "country": "Mexico",
+        "capacity": 34000,
+        "tournaments": "1986 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8837376,
+          20.8052225
+        ]
+      },
+      "properties": {
+        "name": "Estadio La Corregidora",
+        "city": "Quer\u00e9taro",
+        "country": "Mexico",
+        "capacity": 39000,
+        "tournaments": "1986 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9870641,
+          19.4057722
+        ]
+      },
+      "properties": {
+        "name": "Estadio Neza 86",
+        "city": "Nezahualc\u00f3yotl",
+        "country": "Mexico",
+        "capacity": 35000,
+        "tournaments": "1986 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8400849,
+          41.0847276
+        ]
+      },
+      "properties": {
+        "name": "Stadio San Nicola",
+        "city": "Bari",
+        "country": "Italy",
+        "capacity": 51000,
+        "tournaments": "1990 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.458134,
+          41.9387659
+        ]
+      },
+      "properties": {
+        "name": "Stadio Olimpico",
+        "city": "Rome",
+        "country": "Italy",
+        "capacity": 74000,
+        "tournaments": "1990 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2828191,
+          43.7808838
+        ]
+      },
+      "properties": {
+        "name": "Stadio Comunale",
+        "city": "Florence",
+        "country": "Italy",
+        "capacity": 39000,
+        "tournaments": "1990 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6824892,
+          45.0677551
+        ]
+      },
+      "properties": {
+        "name": "Stadio delle Alpi",
+        "city": "Turin",
+        "country": "Italy",
+        "capacity": 63000,
+        "tournaments": "1990 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1348054,
+          39.1994235
+        ]
+      },
+      "properties": {
+        "name": "Stadio Sant'Elia",
+        "city": "Cagliari",
+        "country": "Italy",
+        "capacity": 35000,
+        "tournaments": "1990 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9857377,
+          45.4424977
+        ]
+      },
+      "properties": {
+        "name": "Stadio Marc'Antonio Bentegodi",
+        "city": "Verona",
+        "country": "Italy",
+        "capacity": 36000,
+        "tournaments": "1990 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3420112,
+          38.1528194
+        ]
+      },
+      "properties": {
+        "name": "Stadio La Favorita",
+        "city": "Palermo",
+        "country": "Italy",
+        "capacity": 33000,
+        "tournaments": "1990 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1997411,
+          46.081402
+        ]
+      },
+      "properties": {
+        "name": "Stadio Friuli",
+        "city": "Udine",
+        "country": "Italy",
+        "capacity": 36000,
+        "tournaments": "1990 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1948087,
+          40.826824
+        ]
+      },
+      "properties": {
+        "name": "Stadio San Paolo",
+        "city": "Naples",
+        "country": "Italy",
+        "capacity": 60000,
+        "tournaments": "1990 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2589581,
+          23.1288429
+        ]
+      },
+      "properties": {
+        "name": "Tainhe Stadium",
+        "city": "Guangzhou",
+        "country": "China",
+        "capacity": 60000,
+        "tournaments": "1991 FIFA Women's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0640009,
+          22.6542075
+        ]
+      },
+      "properties": {
+        "name": "Jiangmen Stadium",
+        "city": "Jiangmen",
+        "country": "China",
+        "capacity": 13000,
+        "tournaments": "1991 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.1159558,
+          23.0239788
+        ]
+      },
+      "properties": {
+        "name": "New Plaza Stadium",
+        "city": "Foshan",
+        "country": "China",
+        "capacity": 14000,
+        "tournaments": "1991 FIFA Women's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2589581,
+          23.1288429
+        ]
+      },
+      "properties": {
+        "name": "Ying Tung Stadium",
+        "city": "Guangzhou",
+        "country": "China",
+        "capacity": 15000,
+        "tournaments": "1991 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2589581,
+          23.1288429
+        ]
+      },
+      "properties": {
+        "name": "Gaungdong Provincial Stadium",
+        "city": "Guangzhou",
+        "country": "China",
+        "capacity": 25000,
+        "tournaments": "1991 FIFA Women's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.383217,
+          22.5099027
+        ]
+      },
+      "properties": {
+        "name": "Zhongshan Stadium",
+        "city": "Zhongshan",
+        "country": "China",
+        "capacity": 12000,
+        "tournaments": "1991 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3193597,
+          23.1405033
+        ]
+      },
+      "properties": {
+        "name": "Tianhe Stadium",
+        "city": "Guangzhou",
+        "country": "China",
+        "capacity": 60000,
+        "tournaments": "1991 FIFA Women's World Cup",
+        "match_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2787243,
+          23.1271622
+        ]
+      },
+      "properties": {
+        "name": "Guangdong Provincial Stadium",
+        "city": "Guangzhou",
+        "country": "China",
+        "capacity": 25000,
+        "tournaments": "1991 FIFA Women's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6176477,
+          41.8623356
+        ]
+      },
+      "properties": {
+        "name": "Soldier Field",
+        "city": "Chicago",
+        "country": "United States",
+        "capacity": 65000,
+        "tournaments": "1994 FIFA Men's World Cup; 1999 FIFA Women's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7596025,
+          32.7796119
+        ]
+      },
+      "properties": {
+        "name": "Cotton Bowl",
+        "city": "Dallas",
+        "country": "United States",
+        "capacity": 64000,
+        "tournaments": "1994 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2910468,
+          42.6389216
+        ]
+      },
+      "properties": {
+        "name": "Pontiac Silverdome",
+        "city": "Pontiac",
+        "country": "United States",
+        "capacity": 78000,
+        "tournaments": "1994 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0970865,
+          40.833989
+        ]
+      },
+      "properties": {
+        "name": "Giants Stadium",
+        "city": "East Rutherford",
+        "country": "United States",
+        "capacity": 76000,
+        "tournaments": "1994 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1676674,
+          34.1613492
+        ]
+      },
+      "properties": {
+        "name": "Rose Bowl",
+        "city": "Pasadena",
+        "country": "United States",
+        "capacity": 94000,
+        "tournaments": "1994 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.379045,
+          28.5421218
+        ]
+      },
+      "properties": {
+        "name": "Citrus Bowl",
+        "city": "Orlando",
+        "country": "United States",
+        "capacity": 62000,
+        "tournaments": "1994 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9719023,
+          38.8898387
+        ]
+      },
+      "properties": {
+        "name": "RFK Stadium",
+        "city": "Washington, D.C.",
+        "country": "United States",
+        "capacity": 53000,
+        "tournaments": "1994 FIFA Men's World Cup; 2003 FIFA Women's World Cup",
+        "match_count": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1619867,
+          37.4345264
+        ]
+      },
+      "properties": {
+        "name": "Stanford Stadium",
+        "city": "Stanford",
+        "country": "United States",
+        "capacity": 84000,
+        "tournaments": "1994 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2478308,
+          42.0653768
+        ]
+      },
+      "properties": {
+        "name": "Foxboro Stadium",
+        "city": "Foxborough",
+        "country": "United States",
+        "capacity": 54000,
+        "tournaments": "1994 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4925687,
+          59.3856931
+        ]
+      },
+      "properties": {
+        "name": "Tingvalla IP",
+        "city": "Karlstad",
+        "country": "Sweden",
+        "capacity": 5000,
+        "tournaments": "1995 FIFA Women's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1286625,
+          60.6728658
+        ]
+      },
+      "properties": {
+        "name": "Str\u00f6mvallen",
+        "city": "G\u00e4vle",
+        "country": "Sweden",
+        "capacity": 7000,
+        "tournaments": "1995 FIFA Women's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3601325,
+          48.9244726
+        ]
+      },
+      "properties": {
+        "name": "Stade de France",
+        "city": "Saint-Denis",
+        "country": "France",
+        "capacity": 80000,
+        "tournaments": "1998 FIFA Men's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8120898,
+          43.622022
+        ]
+      },
+      "properties": {
+        "name": "Stade de la Mosson",
+        "city": "Montpellier",
+        "country": "France",
+        "capacity": 34000,
+        "tournaments": "1998 FIFA Men's World Cup; 2019 FIFA Women's World Cup",
+        "match_count": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3667379,
+          43.5449871
+        ]
+      },
+      "properties": {
+        "name": "Stade de Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "capacity": 37000,
+        "tournaments": "1998 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8149863,
+          50.4328242
+        ]
+      },
+      "properties": {
+        "name": "Stade F\u00e9lix-Bollaert",
+        "city": "Lens",
+        "country": "France",
+        "capacity": 41000,
+        "tournaments": "1998 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5247552,
+          47.256005
+        ]
+      },
+      "properties": {
+        "name": "Stade de la Beaujoire",
+        "city": "Nantes",
+        "country": "France",
+        "capacity": 40000,
+        "tournaments": "1998 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8322517,
+          45.7237756
+        ]
+      },
+      "properties": {
+        "name": "Stade de Gerland",
+        "city": "Lyon",
+        "country": "France",
+        "capacity": 44000,
+        "tournaments": "1998 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3900932,
+          45.4607567
+        ]
+      },
+      "properties": {
+        "name": "Stade Geoffroy-Guichard",
+        "city": "Saint-\u00c9tienne",
+        "country": "France",
+        "capacity": 36000,
+        "tournaments": "1998 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "name": "Giants Stadium",
+        "city": "New York City",
+        "country": "United States",
+        "capacity": 78000,
+        "tournaments": "1999 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8683139,
+          37.3196895
+        ]
+      },
+      "properties": {
+        "name": "Spartan Stadium",
+        "city": "San Jose",
+        "country": "United States",
+        "capacity": 26000,
+        "tournaments": "1999 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1676674,
+          34.1613492
+        ]
+      },
+      "properties": {
+        "name": "Rose Bowl",
+        "city": "Los Angeles",
+        "country": "United States",
+        "capacity": 96000,
+        "tournaments": "1999 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0578303,
+          42.3588336
+        ]
+      },
+      "properties": {
+        "name": "Foxboro Stadium",
+        "city": "Boston",
+        "country": "United States",
+        "capacity": 59000,
+        "tournaments": "1999 FIFA Women's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674194,
+          45.5202471
+        ]
+      },
+      "properties": {
+        "name": "Civic Stadium",
+        "city": "Portland",
+        "country": "United States",
+        "capacity": 27000,
+        "tournaments": "1999 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "name": "Jack Kent Cooke Stadium",
+        "city": "Washington, D.C.",
+        "country": "United States",
+        "capacity": 80000,
+        "tournaments": "1999 FIFA Women's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6549013,
+          -0.8965048
+        ]
+      },
+      "properties": {
+        "name": "Stanford Stadium",
+        "city": "San Fransisco",
+        "country": "United States",
+        "capacity": 85000,
+        "tournaments": "1999 FIFA Women's World Cup",
+        "match_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8972477,
+          37.5683021
+        ]
+      },
+      "properties": {
+        "name": "Seoul World Cup Stadium",
+        "city": "Seoul",
+        "country": "South Korea",
+        "capacity": 64000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1883607,
+          37.9483599
+        ]
+      },
+      "properties": {
+        "name": "Niigata Stadium",
+        "city": "Niigata",
+        "country": "Japan",
+        "capacity": 42000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.2594949,
+          35.535263
+        ]
+      },
+      "properties": {
+        "name": "Ulsan Munsu Football Stadium",
+        "city": "Ulsan",
+        "country": "South Korea",
+        "capacity": 44000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4114282,
+          43.0166255
+        ]
+      },
+      "properties": {
+        "name": "Sapporo Dome",
+        "city": "Sapporo",
+        "country": "Japan",
+        "capacity": 42000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6403679,
+          35.9920049
+        ]
+      },
+      "properties": {
+        "name": "Kashima Stadium",
+        "city": "Ibaraki",
+        "country": "Japan",
+        "capacity": 42000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0595481,
+          35.1900767
+        ]
+      },
+      "properties": {
+        "name": "Busan Asiad Stadium",
+        "city": "Busan",
+        "country": "South Korea",
+        "capacity": 56000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630753,
+          35.8951196
+        ]
+      },
+      "properties": {
+        "name": "Saitama Stadium",
+        "city": "Saitama",
+        "country": "Japan",
+        "capacity": 63000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8750042,
+          35.1337706
+        ]
+      },
+      "properties": {
+        "name": "Gwangju World Cup Stadium",
+        "city": "Gwangju",
+        "country": "South Korea",
+        "capacity": 43000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.16976,
+          34.6566966
+        ]
+      },
+      "properties": {
+        "name": "Kobe Wing Stadium",
+        "city": "Kobe",
+        "country": "Japan",
+        "capacity": 42000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.036805,
+          37.2864084
+        ]
+      },
+      "properties": {
+        "name": "Suwon World Cup Stadium",
+        "city": "Suwon",
+        "country": "South Korea",
+        "capacity": 43000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6018,
+          35.8713
+        ]
+      },
+      "properties": {
+        "name": "Daegu World Cup Stadium",
+        "city": "Daegu",
+        "country": "South Korea",
+        "capacity": 68000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0645509,
+          35.8682089
+        ]
+      },
+      "properties": {
+        "name": "Jeonju World Cup Stadium",
+        "city": "Jeonju",
+        "country": "South Korea",
+        "capacity": 42000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5091071,
+          33.2462695
+        ]
+      },
+      "properties": {
+        "name": "Jeju World Cup Stadium",
+        "city": "Seogwipo",
+        "country": "South Korea",
+        "capacity": 42000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9504567,
+          38.3353606
+        ]
+      },
+      "properties": {
+        "name": "Miyagi Stadium",
+        "city": "Miyagi",
+        "country": "Japan",
+        "capacity": 49000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6907516,
+          37.4350773
+        ]
+      },
+      "properties": {
+        "name": "Incheon Munhak Stadium",
+        "city": "Incheon",
+        "country": "South Korea",
+        "capacity": 52000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6063825,
+          35.5099882
+        ]
+      },
+      "properties": {
+        "name": "International Stadium Yokohama",
+        "city": "Yokohama",
+        "country": "Japan",
+        "capacity": 72000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.6574852,
+          33.2007824
+        ]
+      },
+      "properties": {
+        "name": "\u014cita Stadium",
+        "city": "\u014cita",
+        "country": "Japan",
+        "capacity": 43000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.9707289,
+          34.7434305
+        ]
+      },
+      "properties": {
+        "name": "Shizuoka Stadium ECOPA",
+        "city": "Shizuoka",
+        "country": "Japan",
+        "capacity": 51000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.518511,
+          34.6141064
+        ]
+      },
+      "properties": {
+        "name": "Nagai Stadium",
+        "city": "Osaka",
+        "country": "Japan",
+        "capacity": 50000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3251074,
+          36.3652534
+        ]
+      },
+      "properties": {
+        "name": "Daejeon World Cup Stadium",
+        "city": "Daejeon",
+        "country": "South Korea",
+        "capacity": 40000,
+        "tournaments": "2002 FIFA Men's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1674892,
+          39.9009099
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia",
+        "country": "United States",
+        "capacity": 70000,
+        "tournaments": "2003 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9911382,
+          40.009468
+        ]
+      },
+      "properties": {
+        "name": "Columbus Crew Stadium",
+        "city": "Columbus",
+        "country": "United States",
+        "capacity": 23000,
+        "tournaments": "2003 FIFA Women's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3353895,
+          35.3636563
+        ]
+      },
+      "properties": {
+        "name": "Home Depot Center",
+        "city": "Carson",
+        "country": "United States",
+        "capacity": 28000,
+        "tournaments": "2003 FIFA Women's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2641731,
+          42.0908879
+        ]
+      },
+      "properties": {
+        "name": "Gillette Stadium",
+        "city": "Foxborough",
+        "country": "United States",
+        "capacity": 68000,
+        "tournaments": "2003 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674194,
+          45.5202471
+        ]
+      },
+      "properties": {
+        "name": "PGE Park",
+        "city": "Portland",
+        "country": "United States",
+        "capacity": 28000,
+        "tournaments": "2003 FIFA Women's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6236227,
+          48.2187901
+        ]
+      },
+      "properties": {
+        "name": "Allianz Arena",
+        "city": "Munich",
+        "country": "Germany",
+        "capacity": 66000,
+        "tournaments": "2006 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0960124,
+          51.5110321
+        ]
+      },
+      "properties": {
+        "name": "Arena AufShalke",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "capacity": 52000,
+        "tournaments": "2006 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3482361,
+          51.3457078
+        ]
+      },
+      "properties": {
+        "name": "Zentralstadion",
+        "city": "Leipzig",
+        "country": "Germany",
+        "capacity": 43000,
+        "tournaments": "2006 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.129951,
+          49.4292846
+        ]
+      },
+      "properties": {
+        "name": "Frankenstadion",
+        "city": "Nuremberg",
+        "country": "Germany",
+        "capacity": 41000,
+        "tournaments": "2006 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8751167,
+          50.9335055
+        ]
+      },
+      "properties": {
+        "name": "RheinEnergieStadion",
+        "city": "Cologne",
+        "country": "Germany",
+        "capacity": 45000,
+        "tournaments": "2006 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7766303,
+          49.4345765
+        ]
+      },
+      "properties": {
+        "name": "Fritz-Walter-Stadion",
+        "city": "Kaiserslautern",
+        "country": "Germany",
+        "capacity": 46000,
+        "tournaments": "2006 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4763298,
+          31.2733385
+        ]
+      },
+      "properties": {
+        "name": "Hongkou Football Stadium",
+        "city": "Shanghai",
+        "country": "China",
+        "capacity": 33000,
+        "tournaments": "2007 FIFA Women's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.063315,
+          30.659867
+        ]
+      },
+      "properties": {
+        "name": "Chengdu Sports Center",
+        "city": "Chengdu",
+        "country": "China",
+        "capacity": 40000,
+        "tournaments": "2007 FIFA Women's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2052342,
+          30.2489634
+        ]
+      },
+      "properties": {
+        "name": "Yellow Dragon Sports Center",
+        "city": "Hangzhou",
+        "country": "China",
+        "capacity": 51000,
+        "tournaments": "2007 FIFA Women's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2921197,
+          30.578891
+        ]
+      },
+      "properties": {
+        "name": "Wuhan Sports Center",
+        "city": "Wuhan",
+        "country": "China",
+        "capacity": 60000,
+        "tournaments": "2007 FIFA Women's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4163641,
+          39.3032619
+        ]
+      },
+      "properties": {
+        "name": "Tianjin Olympic Center",
+        "city": "Tianjin",
+        "country": "China",
+        "capacity": 60000,
+        "tournaments": "2007 FIFA Women's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9826439,
+          -26.2347063
+        ]
+      },
+      "properties": {
+        "name": "Soccer City",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "capacity": 84000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4111458,
+          -33.9034601
+        ]
+      },
+      "properties": {
+        "name": "Cape Town Stadium",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "capacity": 64000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5994087,
+          -33.937792
+        ]
+      },
+      "properties": {
+        "name": "Nelson Mandela Bay Stadium",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "capacity": 42000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0607682,
+          -26.1974789
+        ]
+      },
+      "properties": {
+        "name": "Ellis Park Stadium",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "capacity": 56000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1609204,
+          -25.5787762
+        ]
+      },
+      "properties": {
+        "name": "Royal Bafokeng Stadium",
+        "city": "Rustenburg",
+        "country": "South Africa",
+        "capacity": 42000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4679601,
+          -23.9248058
+        ]
+      },
+      "properties": {
+        "name": "Peter Mokaba Stadium",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "capacity": 42000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2229327,
+          -25.7532347
+        ]
+      },
+      "properties": {
+        "name": "Loftus Versfeld Stadium",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "capacity": 43000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0313741,
+          -29.8290201
+        ]
+      },
+      "properties": {
+        "name": "Moses Mabhida Stadium",
+        "city": "Durban",
+        "country": "South Africa",
+        "capacity": 63000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2087696,
+          -29.1172351
+        ]
+      },
+      "properties": {
+        "name": "Free State Stadium",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "capacity": 41000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9296899,
+          -25.4617294
+        ]
+      },
+      "properties": {
+        "name": "Mbombela Stadium",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "capacity": 41000,
+        "tournaments": "2010 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8876414,
+          49.2380604
+        ]
+      },
+      "properties": {
+        "name": "Rhein-Neckar-Arena",
+        "city": "Sinsheim",
+        "country": "Germany",
+        "capacity": 30000,
+        "tournaments": "2011 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2365091,
+          51.4900826
+        ]
+      },
+      "properties": {
+        "name": "Ruhrstadion",
+        "city": "Bochum",
+        "country": "Germany",
+        "capacity": 21000,
+        "tournaments": "2011 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8038151,
+          52.4326524
+        ]
+      },
+      "properties": {
+        "name": "Volkswagen Arena",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "capacity": 26000,
+        "tournaments": "2011 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0030964,
+          51.0381439
+        ]
+      },
+      "properties": {
+        "name": "BayArena",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "capacity": 30000,
+        "tournaments": "2011 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7480416,
+          51.040849
+        ]
+      },
+      "properties": {
+        "name": "Rudolf-Harbig-Stadion",
+        "city": "Dresden",
+        "country": "Germany",
+        "capacity": 26000,
+        "tournaments": "2011 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.885879,
+          48.3231179
+        ]
+      },
+      "properties": {
+        "name": "Impuls Arena",
+        "city": "Augsburg",
+        "country": "Germany",
+        "capacity": 25000,
+        "tournaments": "2011 FIFA Women's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3854094,
+          51.1746249
+        ]
+      },
+      "properties": {
+        "name": "Borussia-Park",
+        "city": "M\u00f6nchengladbach",
+        "country": "Germany",
+        "capacity": 46000,
+        "tournaments": "2011 FIFA Women's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4743055,
+          -23.5453327
+        ]
+      },
+      "properties": {
+        "name": "Arena Corinthians",
+        "city": "S\u00e3o Paulo",
+        "country": "Brazil",
+        "capacity": 63000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2126879,
+          -5.8265802
+        ]
+      },
+      "properties": {
+        "name": "Arena das Dunas",
+        "city": "Natal",
+        "country": "Brazil",
+        "capacity": 40000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5035601,
+          -12.9787926
+        ]
+      },
+      "properties": {
+        "name": "Arena Fonte Nova",
+        "city": "Salvador",
+        "country": "Brazil",
+        "capacity": 52000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1222989,
+          -15.6040649
+        ]
+      },
+      "properties": {
+        "name": "Arena Pantanal",
+        "city": "Cuiab\u00e1",
+        "country": "Brazil",
+        "capacity": 41000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9710434,
+          -19.8659115
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio Mineir\u00e3o",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "capacity": 43000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5216794,
+          -3.8067419
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio Castel\u00e3o",
+        "city": "Fortaleza",
+        "country": "Brazil",
+        "capacity": 63000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0280052,
+          -3.0831132
+        ]
+      },
+      "properties": {
+        "name": "Arena da Amaz\u00f4nia",
+        "city": "Manaus",
+        "country": "Brazil",
+        "capacity": 41000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9960797,
+          -8.0327768
+        ]
+      },
+      "properties": {
+        "name": "Arena Pernambuco",
+        "city": "Recife",
+        "country": "Brazil",
+        "capacity": 43000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8990287,
+          -15.7837498
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio Nacional",
+        "city": "Bras\u00edlia",
+        "country": "Brazil",
+        "capacity": 70000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2349178,
+          -30.0654898
+        ]
+      },
+      "properties": {
+        "name": "Est\u00e1dio Beira-Rio",
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "capacity": 43000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2712724,
+          -25.4295963
+        ]
+      },
+      "properties": {
+        "name": "Arena da Baixada",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "capacity": 40000,
+        "tournaments": "2014 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4764233,
+          53.5596586
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Stadium",
+        "city": "Edmonton",
+        "country": "Canada",
+        "capacity": 56000,
+        "tournaments": "2015 FIFA Women's World Cup",
+        "match_count": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6835457,
+          45.3984326
+        ]
+      },
+      "properties": {
+        "name": "TD Place Stadium",
+        "city": "Ottawa",
+        "country": "Canada",
+        "capacity": 24000,
+        "tournaments": "2015 FIFA Women's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1384584,
+          49.8955367
+        ]
+      },
+      "properties": {
+        "name": "Investors Group Field",
+        "city": "Winnipeg",
+        "country": "Canada",
+        "capacity": 33000,
+        "tournaments": "2015 FIFA Women's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1120062,
+          49.2766905
+        ]
+      },
+      "properties": {
+        "name": "BC Place",
+        "city": "Vancouver",
+        "country": "Canada",
+        "capacity": 54000,
+        "tournaments": "2015 FIFA Women's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7832509,
+          46.1083217
+        ]
+      },
+      "properties": {
+        "name": "Moncton Stadium",
+        "city": "Moncton",
+        "country": "Canada",
+        "capacity": 13000,
+        "tournaments": "2015 FIFA Women's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5516458,
+          45.5577984
+        ]
+      },
+      "properties": {
+        "name": "Olympic Stadium",
+        "city": "Montreal",
+        "country": "Canada",
+        "capacity": 56000,
+        "tournaments": "2015 FIFA Women's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5537673,
+          55.7157445
+        ]
+      },
+      "properties": {
+        "name": "Luzhniki Stadium",
+        "city": "Moscow",
+        "country": "Russia",
+        "capacity": 78000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.573936,
+          56.8321778
+        ]
+      },
+      "properties": {
+        "name": "Central Stadium",
+        "city": "Yekaterinburg",
+        "country": "Russia",
+        "capacity": 33000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2210608,
+          59.9723766
+        ]
+      },
+      "properties": {
+        "name": "Krestovsky Stadium",
+        "city": "Saint Petersburg",
+        "country": "Russia",
+        "capacity": 64000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.723109,
+          43.5854823
+        ]
+      },
+      "properties": {
+        "name": "Fisht Olympic Stadium",
+        "city": "Sochi",
+        "country": "Russia",
+        "capacity": 44000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1640243,
+          55.8231228
+        ]
+      },
+      "properties": {
+        "name": "Kazan Arena",
+        "city": "Kazan",
+        "country": "Russia",
+        "capacity": 43000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6063916,
+          55.625578
+        ]
+      },
+      "properties": {
+        "name": "Otkritie Arena",
+        "city": "Moscow",
+        "country": "Russia",
+        "capacity": 44000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2044289,
+          54.1818304
+        ]
+      },
+      "properties": {
+        "name": "Mordovia Arena",
+        "city": "Saransk",
+        "country": "Russia",
+        "capacity": 42000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.534963,
+          54.6980018
+        ]
+      },
+      "properties": {
+        "name": "Kaliningrad Stadium",
+        "city": "Kaliningrad",
+        "country": "Russia",
+        "capacity": 34000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2375022,
+          53.2780085
+        ]
+      },
+      "properties": {
+        "name": "Samara Arena",
+        "city": "Samara",
+        "country": "Russia",
+        "capacity": 42000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7382824,
+          47.2093548
+        ]
+      },
+      "properties": {
+        "name": "Rostov Arena",
+        "city": "Rostov-on-Don",
+        "country": "Russia",
+        "capacity": 43000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0051395,
+          56.3264816
+        ]
+      },
+      "properties": {
+        "name": "Nizhny Novgorod Stadium",
+        "city": "Nizhny Novgorod",
+        "country": "Russia",
+        "capacity": 43000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5473936,
+          48.7344642
+        ]
+      },
+      "properties": {
+        "name": "Volgograd Arena",
+        "city": "Volgograd",
+        "country": "Russia",
+        "capacity": 44000,
+        "tournaments": "2018 FIFA Men's World Cup",
+        "match_count": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7126543,
+          48.1075655
+        ]
+      },
+      "properties": {
+        "name": "Roazhon Park",
+        "city": "Rennes",
+        "country": "France",
+        "capacity": 29000,
+        "tournaments": "2019 FIFA Women's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1694637,
+          49.4987513
+        ]
+      },
+      "properties": {
+        "name": "Stade Oc\u00e9ane",
+        "city": "Le Havre",
+        "country": "France",
+        "capacity": 24000,
+        "tournaments": "2019 FIFA Women's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0247869,
+          49.2470758
+        ]
+      },
+      "properties": {
+        "name": "Stade Auguste-Delaune",
+        "city": "Reims",
+        "country": "France",
+        "capacity": 21000,
+        "tournaments": "2019 FIFA Women's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5317455,
+          50.3484274
+        ]
+      },
+      "properties": {
+        "name": "Stade du Hainaut",
+        "city": "Valenciennes",
+        "country": "France",
+        "capacity": 23000,
+        "tournaments": "2019 FIFA Women's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7402434,
+          45.1873945
+        ]
+      },
+      "properties": {
+        "name": "Stade des Alpes",
+        "city": "Grenoble",
+        "country": "France",
+        "capacity": 18000,
+        "tournaments": "2019 FIFA Women's World Cup",
+        "match_count": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1926033,
+          43.7051477
+        ]
+      },
+      "properties": {
+        "name": "Allianz Riviera",
+        "city": "Nice",
+        "country": "France",
+        "capacity": 35000,
+        "tournaments": "2019 FIFA Women's World Cup",
+        "match_count": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9820543,
+          45.7653624
+        ]
+      },
+      "properties": {
+        "name": "Parc Olympique Lyonnais",
+        "city": "Lyon",
+        "country": "France",
+        "capacity": 58000,
+        "tournaments": "2019 FIFA Women's World Cup",
+        "match_count": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4878055,
+          25.6521339
+        ]
+      },
+      "properties": {
+        "name": "Al Bayt Stadium",
+        "city": "Al Khor",
+        "country": "Qatar",
+        "capacity": 69000,
+        "tournaments": "2022 FIFA Men's World Cup",
+        "match_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.449225,
+          25.2636512
+        ]
+      },
+      "properties": {
+        "name": "Khalifa International Stadium",
+        "city": "Al Rayyan",
+        "country": "Qatar",
+        "capacity": 46000,
+        "tournaments": "2022 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5329152,
+          25.2353106
+        ]
+      },
+      "properties": {
+        "name": "Al Thumama Stadium",
+        "city": "Doha",
+        "country": "Qatar",
+        "capacity": 44000,
+        "tournaments": "2022 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3423218,
+          25.3296917
+        ]
+      },
+      "properties": {
+        "name": "Ahmad bin Ali Stadium",
+        "city": "Al Rayyan",
+        "country": "Qatar",
+        "capacity": 45000,
+        "tournaments": "2022 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4937242,
+          25.4148434
+        ]
+      },
+      "properties": {
+        "name": "Lusail Stadium",
+        "city": "Lusail",
+        "country": "Qatar",
+        "capacity": 89000,
+        "tournaments": "2022 FIFA Men's World Cup",
+        "match_count": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4244477,
+          25.3108533
+        ]
+      },
+      "properties": {
+        "name": "Education City Stadium",
+        "city": "Al Rayyan",
+        "country": "Qatar",
+        "capacity": 45000,
+        "tournaments": "2022 FIFA Men's World Cup",
+        "match_count": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5663991,
+          25.2887882
+        ]
+      },
+      "properties": {
+        "name": "Stadium 974",
+        "city": "Doha",
+        "country": "Qatar",
+        "capacity": 44000,
+        "tournaments": "2022 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5742271,
+          25.1597079
+        ]
+      },
+      "properties": {
+        "name": "Al Janoub Stadium",
+        "city": "Al Wakrah",
+        "country": "Qatar",
+        "capacity": 44000,
+        "tournaments": "2022 FIFA Men's World Cup",
+        "match_count": 7
+      }
+    }
+  ]
+}

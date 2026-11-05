@@ -1,0 +1,241 @@
+stadium_id,stadium_name,city,country,capacity,tournaments,match_count,lat,lon
+S-240,Estadio Pocitos,Montevideo,Uruguay,10000,1930 FIFA Men's World Cup,2,-34.9058916,-56.1913095
+S-239,Estadio Gran Parque Central,Montevideo,Uruguay,20000,1930 FIFA Men's World Cup,6,-34.8844576,-56.1587294
+S-238,Estadio Centenario,Montevideo,Uruguay,90000,1930 FIFA Men's World Cup,10,-34.8945392,-56.1526841
+S-114,Stadio Benito Mussolini,Turin,Italy,28000,1934 FIFA Men's World Cup,2,45.0677551,7.6824892
+S-113,Stadio Littorio,Trieste,Italy,8000,1934 FIFA Men's World Cup,1,45.6239473,13.7941502
+S-105,Stadio Giovanni Berta,Florence,Italy,47000,1934 FIFA Men's World Cup,3,43.7808838,11.2828191
+S-108,Stadio Giorgio Ascarelli,Naples,Italy,40000,1934 FIFA Men's World Cup,2,40.8358846,14.2487679
+S-111,Stadio Nazionale PNF,Rome,Italy,47000,1934 FIFA Men's World Cup,3,41.8933203,12.4829321
+S-106,Stadio Luigi Ferraris,Genoa,Italy,37000,1934 FIFA Men's World Cup; 1990 FIFA Men's World Cup,5,44.4164753,8.9525341
+S-102,Stadio Renato Dall'Ara,Bologna,Italy,50000,1934 FIFA Men's World Cup; 1990 FIFA Men's World Cup,6,44.492317,11.3099971
+S-107,San Siro,Milan,Italy,75000,1934 FIFA Men's World Cup; 1990 FIFA Men's World Cup,9,45.4782003,9.123964
+S-068,Parc des Princes,Paris,France,49000,1938 FIFA Men's World Cup; 1998 FIFA Men's World Cup; 2019 FIFA Women's World Cup,16,48.8413634,2.2530693
+S-077,Stade du T.O.E.C.,Toulouse,France,15000,1938 FIFA Men's World Cup,2,43.6044638,1.4442433
+S-069,Stade Olympique de Colombes,Paris,France,60000,1938 FIFA Men's World Cup,3,48.8588897,2.320041
+S-071,Vélodrome Municipal,Reims,France,22000,1938 FIFA Men's World Cup,1,49.2577886,4.031926
+S-064,Stade Vélodrome,Marseille,France,60000,1938 FIFA Men's World Cup; 1998 FIFA Men's World Cup,9,43.2698474,5.3959082
+S-075,Stade de la Meinau,Strasbourg,France,30000,1938 FIFA Men's World Cup,1,48.5599481,7.7551221
+S-058,Stade Jules Deschaseaux,Le Havre,France,22000,1938 FIFA Men's World Cup,1,49.5017357,0.1711773
+S-056,Stade du Parc Lescure,Bordeaux,France,35000,1938 FIFA Men's World Cup; 1998 FIFA Men's World Cup,9,44.841225,-0.5800364
+S-061,Stade Victor Boucquey,Lille,France,15000,1938 FIFA Men's World Cup,1,50.6365654,3.0635282
+S-055,Stade du Fort Carré,Antibes,France,7000,1938 FIFA Men's World Cup,1,43.5909793,7.1254181
+S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,200000,1950 FIFA Men's World Cup; 2014 FIFA Men's World Cup,15,-22.9121619,-43.2311861
+S-007,Estádio Independência,Belo Horizonte,Brazil,30000,1950 FIFA Men's World Cup,3,-19.9083526,-43.917778
+S-012,Estádio Vila Capanema,Curitiba,Brazil,10000,1950 FIFA Men's World Cup,2,-25.4393937,-49.2558444
+S-023,Estádio do Pacaembu,São Paulo,Brazil,60000,1950 FIFA Men's World Cup,6,-23.5485641,-46.6653519
+S-017,Estádio dos Eucaliptos,Porto Alegre,Brazil,20000,1950 FIFA Men's World Cup,2,-30.0617155,-51.227347
+S-019,Estádio Ilha do Retiro,Recife,Brazil,30000,1950 FIFA Men's World Cup,1,-8.0630099,-34.9036005
+S-213,Charmilles Stadium,Geneva,Switzerland,36000,1954 FIFA Men's World Cup,4,46.2017559,6.1466014
+S-214,Stade Olympique de la Pontaise,Lausanne,Switzerland,50000,1954 FIFA Men's World Cup,5,46.5332284,6.6243167
+S-216,Hardturm Stadium,Zürich,Switzerland,35000,1954 FIFA Men's World Cup,5,47.3744489,8.5410422
+S-212,Wankdorf Stadium,Bern,Switzerland,65000,1954 FIFA Men's World Cup,5,46.9631042,7.4648638
+S-211,St. Jakob Stadium,Basel,Switzerland,55000,1954 FIFA Men's World Cup,6,47.5416464,7.6201249
+S-215,Cornaredo Stadium,Lugano,Switzerland,36000,1954 FIFA Men's World Cup,1,46.0238282,8.9611777
+S-208,Råsunda Stadium,Solna,Sweden,52000,1958 FIFA Men's World Cup; 1995 FIFA Women's World Cup,9,59.366667,18.016667
+S-204,Malmö Stadion,Malmö,Sweden,30000,1958 FIFA Men's World Cup,4,55.5859136,12.9893554
+S-201,Örjans Vall,Halmstad,Sweden,15000,1958 FIFA Men's World Cup,2,56.6849037,12.8679973
+S-205,Idrottsparken,Norrköping,Sweden,20000,1958 FIFA Men's World Cup,3,58.5843928,16.1720584
+S-210,Arosvallen,Västerås,Sweden,10000,1958 FIFA Men's World Cup; 1995 FIFA Women's World Cup,8,59.6204024,16.5406131
+S-207,Jernvallen,Sandviken,Sweden,20000,1958 FIFA Men's World Cup,2,60.6081312,16.7724836
+S-209,Rimnersvallen,Uddevalla,Sweden,18000,1958 FIFA Men's World Cup,1,58.3570576,11.9492993
+S-200,Ullevi,Gothenburg,Sweden,54000,1958 FIFA Men's World Cup,7,57.7059197,11.9873276
+S-202,Olympia,Helsingborg,Sweden,27000,1958 FIFA Men's World Cup; 1995 FIFA Women's World Cup,9,56.0499907,12.7077617
+S-197,Ryavallen,Borås,Sweden,15000,1958 FIFA Men's World Cup,2,57.7357069,12.9349295
+S-206,Eyravallen,Örebro,Sweden,13000,1958 FIFA Men's World Cup,1,59.2747287,15.2151181
+S-198,Tunavallen,Eskilstuna,Sweden,22000,1958 FIFA Men's World Cup,1,59.3706685,16.4959531
+S-030,Estadio Carlos Dittborn,Arica,Chile,18000,1962 FIFA Men's World Cup,7,-18.4874603,-70.2991206
+S-032,Estadio Nacional,Santiago,Chile,67000,1962 FIFA Men's World Cup,10,-33.4623809,-70.6062176
+S-033,Estadio Sausalito,Viña del Mar,Chile,18000,1962 FIFA Men's World Cup,8,-33.0144473,-71.5341445
+S-031,Estadio El Teniente,Rancagua,Chile,18000,1962 FIFA Men's World Cup,7,-34.1778095,-70.7375478
+S-049,Wembley Stadium,London,England,99000,1966 FIFA Men's World Cup,9,51.5560695,-0.2796034
+S-053,Hillsborough Stadium,Sheffield,England,43000,1966 FIFA Men's World Cup,4,53.411379,-1.5006311
+S-048,Goodison Park,Liverpool,England,50000,1966 FIFA Men's World Cup,5,53.4386898,-2.9664193
+S-052,Ayresome Park,Middlesbrough,England,40000,1966 FIFA Men's World Cup,3,54.566736,-1.2421523
+S-047,Villa Park,Birmingham,England,52000,1966 FIFA Men's World Cup,3,52.5091264,-1.8850354
+S-051,Old Trafford,Manchester,England,58000,1966 FIFA Men's World Cup,3,53.4631096,-2.2913865
+S-054,Roker Park,Sunderland,England,40000,1966 FIFA Men's World Cup,4,54.9238049,-1.3701154
+S-050,White City Stadium,London,England,77000,1966 FIFA Men's World Cup,1,51.5074456,-0.1277653
+S-132,Estadio Azteca,Mexico City,Mexico,115000,1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup,19,19.3029794,-99.15047
+S-137,Estadio Cuauhtémoc,Puebla,Mexico,46000,1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup,8,19.0780308,-98.1643653
+S-128,Estadio Jalisco,Guadalajara,Mexico,71000,1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup,14,20.7047861,-103.3276735
+S-131,Estadio Nou Camp,León,Mexico,31000,1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup,11,45.7578137,4.8320114
+S-139,La Bombonera,Toluca,Mexico,33000,1970 FIFA Men's World Cup; 1986 FIFA Men's World Cup,7,19.292545,-99.6569007
+S-086,Waldstadion,Frankfurt,Germany,62000,1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup; 2011 FIFA Women's World Cup,14,50.0686103,8.6454154
+S-080,Olympiastadion,Berlin,Germany,86000,1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup; 2011 FIFA Women's World Cup,10,52.5145846,13.2398144
+S-089,Volksparkstadion,Hamburg,Germany,61000,1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup,8,53.5871535,9.8987056
+S-083,Westfalenstadion,Dortmund,Germany,65000,1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup,10,51.4924922,7.4518549
+S-085,Rheinstadion,Düsseldorf,Germany,70000,1974 FIFA Men's World Cup,5,51.2632069,6.7288587
+S-090,Niedersachsenstadion,Hanover,Germany,60000,1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup,9,52.360026,9.7310161
+S-096,Olympiastadion,Munich,Germany,78000,1974 FIFA Men's World Cup,5,48.1731314,11.5464786
+S-099,Neckarstadion,Stuttgart,Germany,72000,1974 FIFA Men's World Cup; 2006 FIFA Men's World Cup,10,48.7922488,9.2320857
+S-088,Parkstadion,Gelsenkirchen,Germany,72000,1974 FIFA Men's World Cup,5,51.5592587,7.0675771
+S-002,Estadio Monumental,Buenos Aires,Argentina,75000,1978 FIFA Men's World Cup,9,-34.5452932,-58.4497385
+S-004,Estadio José María Minella,Mar del Plata,Argentina,44000,1978 FIFA Men's World Cup,6,-38.0178995,-57.5824062
+S-006,Estadio Gigante de Arroyito,Rosario,Argentina,46000,1978 FIFA Men's World Cup,6,-32.914023,-60.674499
+S-001,Estadio José Amalfitani,Buenos Aires,Argentina,49000,1978 FIFA Men's World Cup,3,-34.6353382,-58.5206788
+S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,35000,1978 FIFA Men's World Cup,6,-32.889678,-68.879901
+S-003,Estadio Chateau Carreras,Córdoba,Argentina,47000,1978 FIFA Men's World Cup,8,37.8845813,-4.7760138
+S-182,Camp Nou,Barcelona,Spain,121000,1982 FIFA Men's World Cup,5,41.3807783,2.1156486
+S-195,Balaídos,Vigo,Spain,33000,1982 FIFA Men's World Cup,3,42.2114076,-8.7440784
+S-192,Estadio Ramón Sánchez Pizjuán,Seville,Spain,68000,1982 FIFA Men's World Cup,2,37.3840876,-5.9706309
+S-180,Estadio Riazor,A Coruña,Spain,34000,1982 FIFA Men's World Cup,3,43.3687157,-8.4175098
+S-185,Nuevo Estadio,Elche,Spain,53000,1982 FIFA Men's World Cup,3,38.2653307,-0.6988391
+S-189,Estadio La Rosaleda,Málaga,Spain,45000,1982 FIFA Men's World Cup,3,36.7349435,-4.4265346
+S-186,Estadio El Molinón,Gijón,Spain,45000,1982 FIFA Men's World Cup,3,43.5362711,-5.6374766
+S-184,Estadio San Mamés,Bilbao,Spain,46000,1982 FIFA Men's World Cup,3,43.264204,-2.9493915
+S-193,Estadio Luis Casanova,Valencia,Spain,50000,1982 FIFA Men's World Cup,3,39.4697065,-0.3763353
+S-190,Estadio Carlos Tartiere,Oviedo,Spain,24000,1982 FIFA Men's World Cup,3,43.3608716,-5.8703316
+S-194,Estadio José Zorrilla,Valladolid,Spain,30000,1982 FIFA Men's World Cup,3,41.6445789,-4.7612638
+S-196,Estadio La Romareda,Zaragoza,Spain,42000,1982 FIFA Men's World Cup,3,41.6430344,-0.9010138
+S-181,Estadio José Rico Pérez,Alicante,Spain,33000,1982 FIFA Men's World Cup,3,38.3573459,-0.4925974
+S-191,Estadio Benito Villamarín,Seville,Spain,50000,1982 FIFA Men's World Cup,2,37.3564503,-5.9809176
+S-188,Vicente Calderón,Madrid,Spain,66000,1982 FIFA Men's World Cup,3,40.416782,-3.703507
+S-183,Estadi de Sarrià,Barcelona,Spain,40000,1982 FIFA Men's World Cup,3,41.3802235,2.1126629
+S-187,Estadio Santiago Bernabéu,Madrid,Spain,90000,1982 FIFA Men's World Cup,4,40.4530437,-3.688197
+S-133,Estadio Olímpico Universitario,Mexico City,Mexico,72000,1986 FIFA Men's World Cup,4,19.3316881,-99.1922864
+S-130,Estadio Sergio León Chavez,Irapuato,Mexico,31000,1986 FIFA Men's World Cup,3,20.6844987,-101.356357
+S-135,Estadio Universitario,Monterrey,Mexico,44000,1986 FIFA Men's World Cup,5,25.6802019,-100.315258
+S-129,Estadio Tres de Marzo,Guadalajara,Mexico,30000,1986 FIFA Men's World Cup,3,20.6720375,-103.338396
+S-134,Estadio Tecnológico,Monterrey,Mexico,34000,1986 FIFA Men's World Cup,3,25.6802019,-100.315258
+S-138,Estadio La Corregidora,Querétaro,Mexico,39000,1986 FIFA Men's World Cup,4,20.8052225,-99.8837376
+S-136,Estadio Neza 86,Nezahualcóyotl,Mexico,35000,1986 FIFA Men's World Cup,3,19.4057722,-98.9870641
+S-101,Stadio San Nicola,Bari,Italy,51000,1990 FIFA Men's World Cup,5,41.0847276,16.8400849
+S-112,Stadio Olimpico,Rome,Italy,74000,1990 FIFA Men's World Cup,6,41.9387659,12.458134
+S-104,Stadio Comunale,Florence,Italy,39000,1990 FIFA Men's World Cup,4,43.7808838,11.2828191
+S-115,Stadio delle Alpi,Turin,Italy,63000,1990 FIFA Men's World Cup,5,45.0677551,7.6824892
+S-103,Stadio Sant'Elia,Cagliari,Italy,35000,1990 FIFA Men's World Cup,3,39.1994235,9.1348054
+S-117,Stadio Marc'Antonio Bentegodi,Verona,Italy,36000,1990 FIFA Men's World Cup,4,45.4424977,10.9857377
+S-110,Stadio La Favorita,Palermo,Italy,33000,1990 FIFA Men's World Cup,3,38.1528194,13.3420112
+S-116,Stadio Friuli,Udine,Italy,36000,1990 FIFA Men's World Cup,3,46.081402,13.1997411
+S-109,Stadio San Paolo,Naples,Italy,60000,1990 FIFA Men's World Cup,5,40.826824,14.1948087
+S-038,Tainhe Stadium,Guangzhou,China,60000,1991 FIFA Women's World Cup,2,23.1288429,113.2589581
+S-042,Jiangmen Stadium,Jiangmen,China,13000,1991 FIFA Women's World Cup,4,22.6542075,113.0640009
+S-035,New Plaza Stadium,Foshan,China,14000,1991 FIFA Women's World Cup,6,23.0239788,113.1159558
+S-040,Ying Tung Stadium,Guangzhou,China,15000,1991 FIFA Women's World Cup,4,23.1288429,113.2589581
+S-036,Gaungdong Provincial Stadium,Guangzhou,China,25000,1991 FIFA Women's World Cup,3,23.1288429,113.2589581
+S-046,Zhongshan Stadium,Zhongshan,China,12000,1991 FIFA Women's World Cup,4,22.5099027,113.383217
+S-039,Tianhe Stadium,Guangzhou,China,60000,1991 FIFA Women's World Cup,2,23.1405033,113.3193597
+S-037,Guangdong Provincial Stadium,Guangzhou,China,25000,1991 FIFA Women's World Cup,1,23.1271622,113.2787243
+S-219,Soldier Field,Chicago,United States,65000,1994 FIFA Men's World Cup; 1999 FIFA Women's World Cup,9,41.8623356,-87.6176477
+S-221,Cotton Bowl,Dallas,United States,64000,1994 FIFA Men's World Cup,6,32.7796119,-96.7596025
+S-230,Pontiac Silverdome,Pontiac,United States,78000,1994 FIFA Men's World Cup,4,42.6389216,-83.2910468
+S-222,Giants Stadium,East Rutherford,United States,76000,1994 FIFA Men's World Cup,7,40.833989,-74.0970865
+S-228,Rose Bowl,Pasadena,United States,94000,1994 FIFA Men's World Cup,8,34.1613492,-118.1676674
+S-227,Citrus Bowl,Orlando,United States,62000,1994 FIFA Men's World Cup,5,28.5421218,-81.379045
+S-237,RFK Stadium,"Washington, D.C.",United States,53000,1994 FIFA Men's World Cup; 2003 FIFA Women's World Cup,11,38.8898387,-76.9719023
+S-235,Stanford Stadium,Stanford,United States,84000,1994 FIFA Men's World Cup,6,37.4345264,-122.1619867
+S-223,Foxboro Stadium,Foxborough,United States,54000,1994 FIFA Men's World Cup,6,42.0653768,-71.2478308
+S-203,Tingvalla IP,Karlstad,Sweden,5000,1995 FIFA Women's World Cup,7,59.3856931,13.4925687
+S-199,Strömvallen,Gävle,Sweden,7000,1995 FIFA Women's World Cup,5,60.6728658,17.1286625
+S-073,Stade de France,Saint-Denis,France,80000,1998 FIFA Men's World Cup,9,48.9244726,2.3601325
+S-065,Stade de la Mosson,Montpellier,France,34000,1998 FIFA Men's World Cup; 2019 FIFA Women's World Cup,11,43.622022,3.8120898
+S-076,Stade de Toulouse,Toulouse,France,37000,1998 FIFA Men's World Cup,6,43.5449871,1.3667379
+S-060,Stade Félix-Bollaert,Lens,France,41000,1998 FIFA Men's World Cup,6,50.4328242,2.8149863
+S-066,Stade de la Beaujoire,Nantes,France,40000,1998 FIFA Men's World Cup,6,47.256005,-1.5247552
+S-063,Stade de Gerland,Lyon,France,44000,1998 FIFA Men's World Cup,6,45.7237756,4.8322517
+S-074,Stade Geoffroy-Guichard,Saint-Étienne,France,36000,1998 FIFA Men's World Cup,6,45.4607567,4.3900932
+S-226,Giants Stadium,New York City,United States,78000,1999 FIFA Women's World Cup,4,40.7127281,-74.0060152
+S-234,Spartan Stadium,San Jose,United States,26000,1999 FIFA Women's World Cup,4,37.3196895,-121.8683139
+S-225,Rose Bowl,Los Angeles,United States,96000,1999 FIFA Women's World Cup,4,34.1613492,-118.1676674
+S-217,Foxboro Stadium,Boston,United States,59000,1999 FIFA Women's World Cup,5,42.3588336,-71.0578303
+S-231,Civic Stadium,Portland,United States,27000,1999 FIFA Women's World Cup,4,45.5202471,-122.674194
+S-236,Jack Kent Cooke Stadium,"Washington, D.C.",United States,80000,1999 FIFA Women's World Cup,6,38.8950982,-77.0363849
+S-233,Stanford Stadium,San Fransisco,United States,85000,1999 FIFA Women's World Cup,1,-0.8965048,-78.6549013
+S-177,Seoul World Cup Stadium,Seoul,South Korea,64000,2002 FIFA Men's World Cup,3,37.5683021,126.8972477
+S-121,Niigata Stadium,Niigata,Japan,42000,2002 FIFA Men's World Cup,3,37.9483599,139.1883607
+S-179,Ulsan Munsu Football Stadium,Ulsan,South Korea,44000,2002 FIFA Men's World Cup,3,35.535263,129.2594949
+S-125,Sapporo Dome,Sapporo,Japan,42000,2002 FIFA Men's World Cup,3,43.0166255,141.4114282
+S-118,Kashima Stadium,Ibaraki,Japan,42000,2002 FIFA Men's World Cup,3,35.9920049,140.6403679
+S-170,Busan Asiad Stadium,Busan,South Korea,56000,2002 FIFA Men's World Cup,3,35.1900767,129.0595481
+S-124,Saitama Stadium,Saitama,Japan,63000,2002 FIFA Men's World Cup,4,35.8951196,139.630753
+S-173,Gwangju World Cup Stadium,Gwangju,South Korea,43000,2002 FIFA Men's World Cup,3,35.1337706,126.8750042
+S-119,Kobe Wing Stadium,Kobe,Japan,42000,2002 FIFA Men's World Cup,3,34.6566966,135.16976
+S-178,Suwon World Cup Stadium,Suwon,South Korea,43000,2002 FIFA Men's World Cup,4,37.2864084,127.036805
+S-171,Daegu World Cup Stadium,Daegu,South Korea,68000,2002 FIFA Men's World Cup,4,35.8713,128.6018
+S-175,Jeonju World Cup Stadium,Jeonju,South Korea,42000,2002 FIFA Men's World Cup,3,35.8682089,127.0645509
+S-176,Jeju World Cup Stadium,Seogwipo,South Korea,42000,2002 FIFA Men's World Cup,3,33.2462695,126.5091071
+S-120,Miyagi Stadium,Miyagi,Japan,49000,2002 FIFA Men's World Cup,3,38.3353606,140.9504567
+S-174,Incheon Munhak Stadium,Incheon,South Korea,52000,2002 FIFA Men's World Cup,3,37.4350773,126.6907516
+S-127,International Stadium Yokohama,Yokohama,Japan,72000,2002 FIFA Men's World Cup,4,35.5099882,139.6063825
+S-122,Ōita Stadium,Ōita,Japan,43000,2002 FIFA Men's World Cup,3,33.2007824,131.6574852
+S-126,Shizuoka Stadium ECOPA,Shizuoka,Japan,51000,2002 FIFA Men's World Cup,3,34.7434305,137.9707289
+S-123,Nagai Stadium,Osaka,Japan,50000,2002 FIFA Men's World Cup,3,34.6141064,135.518511
+S-172,Daejeon World Cup Stadium,Daejeon,South Korea,40000,2002 FIFA Men's World Cup,3,36.3652534,127.3251074
+S-229,Lincoln Financial Field,Philadelphia,United States,70000,2003 FIFA Women's World Cup,4,39.9009099,-75.1674892
+S-220,Columbus Crew Stadium,Columbus,United States,23000,2003 FIFA Women's World Cup,6,40.009468,-82.9911382
+S-218,Home Depot Center,Carson,United States,28000,2003 FIFA Women's World Cup,6,35.3636563,-101.3353895
+S-224,Gillette Stadium,Foxborough,United States,68000,2003 FIFA Women's World Cup,4,42.0908879,-71.2641731
+S-232,PGE Park,Portland,United States,28000,2003 FIFA Women's World Cup,6,45.5202471,-122.674194
+S-095,Allianz Arena,Munich,Germany,66000,2006 FIFA Men's World Cup,6,48.2187901,11.6236227
+S-087,Arena AufShalke,Gelsenkirchen,Germany,52000,2006 FIFA Men's World Cup,5,51.5110321,7.0960124
+S-092,Zentralstadion,Leipzig,Germany,43000,2006 FIFA Men's World Cup,5,51.3457078,12.3482361
+S-097,Frankenstadion,Nuremberg,Germany,41000,2006 FIFA Men's World Cup,5,49.4292846,11.129951
+S-082,RheinEnergieStadion,Cologne,Germany,45000,2006 FIFA Men's World Cup,5,50.9335055,6.8751167
+S-091,Fritz-Walter-Stadion,Kaiserslautern,Germany,46000,2006 FIFA Men's World Cup,5,49.4345765,7.7766303
+S-043,Hongkou Football Stadium,Shanghai,China,33000,2007 FIFA Women's World Cup,7,31.2733385,121.4763298
+S-034,Chengdu Sports Center,Chengdu,China,40000,2007 FIFA Women's World Cup,5,30.659867,104.063315
+S-041,Yellow Dragon Sports Center,Hangzhou,China,51000,2007 FIFA Women's World Cup,9,30.2489634,120.2052342
+S-045,Wuhan Sports Center,Wuhan,China,60000,2007 FIFA Women's World Cup,6,30.578891,114.2921197
+S-044,Tianjin Olympic Center,Tianjin,China,60000,2007 FIFA Women's World Cup,5,39.3032619,117.4163641
+S-164,Soccer City,Johannesburg,South Africa,84000,2010 FIFA Men's World Cup,8,-26.2347063,27.9826439
+S-161,Cape Town Stadium,Cape Town,South Africa,64000,2010 FIFA Men's World Cup,8,-33.9034601,18.4111458
+S-167,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,42000,2010 FIFA Men's World Cup,8,-33.937792,25.5994087
+S-163,Ellis Park Stadium,Johannesburg,South Africa,56000,2010 FIFA Men's World Cup,7,-26.1974789,28.0607682
+S-169,Royal Bafokeng Stadium,Rustenburg,South Africa,42000,2010 FIFA Men's World Cup,6,-25.5787762,27.1609204
+S-166,Peter Mokaba Stadium,Polokwane,South Africa,42000,2010 FIFA Men's World Cup,4,-23.9248058,29.4679601
+S-168,Loftus Versfeld Stadium,Pretoria,South Africa,43000,2010 FIFA Men's World Cup,6,-25.7532347,28.2229327
+S-162,Moses Mabhida Stadium,Durban,South Africa,63000,2010 FIFA Men's World Cup,7,-29.8290201,31.0313741
+S-160,Free State Stadium,Bloemfontein,South Africa,41000,2010 FIFA Men's World Cup,6,-29.1172351,26.2087696
+S-165,Mbombela Stadium,Nelspruit,South Africa,41000,2010 FIFA Men's World Cup,4,-25.4617294,30.9296899
+S-098,Rhein-Neckar-Arena,Sinsheim,Germany,30000,2011 FIFA Women's World Cup,4,49.2380604,8.8876414
+S-081,Ruhrstadion,Bochum,Germany,21000,2011 FIFA Women's World Cup,4,51.4900826,7.2365091
+S-100,Volkswagen Arena,Wolfsburg,Germany,26000,2011 FIFA Women's World Cup,4,52.4326524,10.8038151
+S-093,BayArena,Leverkusen,Germany,30000,2011 FIFA Women's World Cup,4,51.0381439,7.0030964
+S-084,Rudolf-Harbig-Stadion,Dresden,Germany,26000,2011 FIFA Women's World Cup,4,51.040849,13.7480416
+S-079,Impuls Arena,Augsburg,Germany,25000,2011 FIFA Women's World Cup,4,48.3231179,10.885879
+S-094,Borussia-Park,Mönchengladbach,Germany,46000,2011 FIFA Women's World Cup,3,51.1746249,6.3854094
+S-022,Arena Corinthians,São Paulo,Brazil,63000,2014 FIFA Men's World Cup,6,-23.5453327,-46.4743055
+S-015,Arena das Dunas,Natal,Brazil,40000,2014 FIFA Men's World Cup,4,-5.8265802,-35.2126879
+S-021,Arena Fonte Nova,Salvador,Brazil,52000,2014 FIFA Men's World Cup,6,-12.9787926,-38.5035601
+S-010,Arena Pantanal,Cuiabá,Brazil,41000,2014 FIFA Men's World Cup,4,-15.6040649,-56.1222989
+S-008,Estádio Mineirão,Belo Horizonte,Brazil,43000,2014 FIFA Men's World Cup,6,-19.8659115,-43.9710434
+S-013,Estádio Castelão,Fortaleza,Brazil,63000,2014 FIFA Men's World Cup,6,-3.8067419,-38.5216794
+S-014,Arena da Amazônia,Manaus,Brazil,41000,2014 FIFA Men's World Cup,4,-3.0831132,-60.0280052
+S-018,Arena Pernambuco,Recife,Brazil,43000,2014 FIFA Men's World Cup,5,-8.0327768,-34.9960797
+S-009,Estádio Nacional,Brasília,Brazil,70000,2014 FIFA Men's World Cup,7,-15.7837498,-47.8990287
+S-016,Estádio Beira-Rio,Porto Alegre,Brazil,43000,2014 FIFA Men's World Cup,5,-30.0654898,-51.2349178
+S-011,Arena da Baixada,Curitiba,Brazil,40000,2014 FIFA Men's World Cup,4,-25.4295963,-49.2712724
+S-024,Commonwealth Stadium,Edmonton,Canada,56000,2015 FIFA Women's World Cup,11,53.5596586,-113.4764233
+S-027,TD Place Stadium,Ottawa,Canada,24000,2015 FIFA Women's World Cup,9,45.3984326,-75.6835457
+S-029,Investors Group Field,Winnipeg,Canada,33000,2015 FIFA Women's World Cup,7,49.8955367,-97.1384584
+S-028,BC Place,Vancouver,Canada,54000,2015 FIFA Women's World Cup,9,49.2766905,-123.1120062
+S-025,Moncton Stadium,Moncton,Canada,13000,2015 FIFA Women's World Cup,7,46.1083217,-64.7832509
+S-026,Olympic Stadium,Montreal,Canada,56000,2015 FIFA Women's World Cup,9,45.5577984,-73.5516458
+S-150,Luzhniki Stadium,Moscow,Russia,78000,2018 FIFA Men's World Cup,7,55.7157445,37.5537673
+S-159,Central Stadium,Yekaterinburg,Russia,33000,2018 FIFA Men's World Cup,4,56.8321778,60.573936
+S-154,Krestovsky Stadium,Saint Petersburg,Russia,64000,2018 FIFA Men's World Cup,7,59.9723766,30.2210608
+S-157,Fisht Olympic Stadium,Sochi,Russia,44000,2018 FIFA Men's World Cup,6,43.5854823,39.723109
+S-149,Kazan Arena,Kazan,Russia,43000,2018 FIFA Men's World Cup,6,55.8231228,49.1640243
+S-151,Otkritie Arena,Moscow,Russia,44000,2018 FIFA Men's World Cup,5,55.625578,37.6063916
+S-156,Mordovia Arena,Saransk,Russia,42000,2018 FIFA Men's World Cup,4,54.1818304,45.2044289
+S-148,Kaliningrad Stadium,Kaliningrad,Russia,34000,2018 FIFA Men's World Cup,4,54.6980018,20.534963
+S-155,Samara Arena,Samara,Russia,42000,2018 FIFA Men's World Cup,6,53.2780085,50.2375022
+S-153,Rostov Arena,Rostov-on-Don,Russia,43000,2018 FIFA Men's World Cup,5,47.2093548,39.7382824
+S-152,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,43000,2018 FIFA Men's World Cup,6,56.3264816,44.0051395
+S-158,Volgograd Arena,Volgograd,Russia,44000,2018 FIFA Men's World Cup,4,48.7344642,44.5473936
+S-072,Roazhon Park,Rennes,France,29000,2019 FIFA Women's World Cup,7,48.1075655,-1.7126543
+S-059,Stade Océane,Le Havre,France,24000,2019 FIFA Women's World Cup,7,49.4987513,0.1694637
+S-070,Stade Auguste-Delaune,Reims,France,21000,2019 FIFA Women's World Cup,6,49.2470758,4.0247869
+S-078,Stade du Hainaut,Valenciennes,France,23000,2019 FIFA Women's World Cup,6,50.3484274,3.5317455
+S-057,Stade des Alpes,Grenoble,France,18000,2019 FIFA Women's World Cup,5,45.1873945,5.7402434
+S-067,Allianz Riviera,Nice,France,35000,2019 FIFA Women's World Cup,6,43.7051477,7.1926033
+S-062,Parc Olympique Lyonnais,Lyon,France,58000,2019 FIFA Women's World Cup,3,45.7653624,4.9820543
+S-140,Al Bayt Stadium,Al Khor,Qatar,69000,2022 FIFA Men's World Cup,9,25.6521339,51.4878055
+S-143,Khalifa International Stadium,Al Rayyan,Qatar,46000,2022 FIFA Men's World Cup,8,25.2636512,51.449225
+S-145,Al Thumama Stadium,Doha,Qatar,44000,2022 FIFA Men's World Cup,8,25.2353106,51.5329152
+S-141,Ahmad bin Ali Stadium,Al Rayyan,Qatar,45000,2022 FIFA Men's World Cup,7,25.3296917,51.3423218
+S-147,Lusail Stadium,Lusail,Qatar,89000,2022 FIFA Men's World Cup,10,25.4148434,51.4937242
+S-142,Education City Stadium,Al Rayyan,Qatar,45000,2022 FIFA Men's World Cup,8,25.3108533,51.4244477
+S-146,Stadium 974,Doha,Qatar,44000,2022 FIFA Men's World Cup,7,25.2887882,51.5663991
+S-144,Al Janoub Stadium,Al Wakrah,Qatar,44000,2022 FIFA Men's World Cup,7,25.1597079,51.5742271
