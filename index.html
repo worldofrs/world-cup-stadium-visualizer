@@ -30,6 +30,60 @@
       width: 100%;
       height: 100%;
     }
+
+    /* Legend — pure HTML/CSS overlay on the WebGL canvas.
+       position:absolute + z-index lifts it above the Cesium canvas. */
+    #legend {
+      position: absolute;
+      bottom: 40px;
+      left: 12px;
+      z-index: 10;
+      background: rgba(0, 0, 0, 0.7);
+      backdrop-filter: blur(6px);
+      border-radius: 8px;
+      padding: 12px 16px;
+      color: #fff;
+      font-family: sans-serif;
+      font-size: 12px;
+      line-height: 1.4;
+      pointer-events: none; /* don't block globe interaction */
+    }
+    #legend h3 {
+      margin: 0 0 8px 0;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .legend-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 3px;
+    }
+    .legend-swatch {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      border: 1px solid rgba(255,255,255,0.4);
+      flex-shrink: 0;
+    }
+    .legend-divider {
+      border: none;
+      border-top: 1px solid rgba(255,255,255,0.2);
+      margin: 8px 0;
+    }
+    .legend-size-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+    }
+    .legend-size-dot {
+      border-radius: 50%;
+      background: #aaa;
+      flex-shrink: 0;
+    }
   </style>
 </head>
 <body>
@@ -37,44 +91,158 @@
   <!-- This div is where Cesium renders the 3D globe -->
   <div id="cesiumContainer"></div>
 
+  <!-- Legend overlay — sits on top of the WebGL canvas via CSS positioning.
+       No Cesium API needed; it's just HTML/CSS. -->
+  <div id="legend">
+    <h3>Tournament Era</h3>
+    <div class="legend-row"><span class="legend-swatch" style="background:#8B4513"></span> 1930s</div>
+    <div class="legend-row"><span class="legend-swatch" style="background:#A0522D"></span> 1940s</div>
+    <div class="legend-row"><span class="legend-swatch" style="background:#CD853F"></span> 1950s</div>
+    <div class="legend-row"><span class="legend-swatch" style="background:#DAA520"></span> 1960s</div>
+    <div class="legend-row"><span class="legend-swatch" style="background:#D2691E"></span> 1970s</div>
+    <div class="legend-row"><span class="legend-swatch" style="background:#FF8C00"></span> 1980s</div>
+    <div class="legend-row"><span class="legend-swatch" style="background:#FF4500"></span> 1990s</div>
+    <div class="legend-row"><span class="legend-swatch" style="background:#DC143C"></span> 2000s</div>
+    <div class="legend-row"><span class="legend-swatch" style="background:#B22222"></span> 2010s</div>
+    <div class="legend-row"><span class="legend-swatch" style="background:#8B0000"></span> 2020s</div>
+    <hr class="legend-divider">
+    <h3>Capacity</h3>
+    <div class="legend-size-row"><span class="legend-size-dot" style="width:6px;height:6px"></span> 5k</div>
+    <div class="legend-size-row"><span class="legend-size-dot" style="width:12px;height:12px"></span> 50k</div>
+    <div class="legend-size-row"><span class="legend-size-dot" style="width:20px;height:20px"></span> 200k</div>
+  </div>
+
   <script>
-    // STEP 1: Authenticate with Cesium ion
-    // This token tells ion's servers "this app is allowed to pull my imagery/terrain tiles."
-    // Without it, you'd get a blank globe with no satellite photos or elevation.
+    // ── Phase 3: Data-Driven Styling ──────────────────────────────────
+
+    // DECADE_COLORS — maps the decade of a stadium's earliest World Cup appearance to a color
+    // warm brown (1930s) -> gold/orange (mid-century) -> crimson/deep red (modern era).
+    const DECADE_COLORS = {
+      '1930': '#8B4513',  // saddle brown
+      '1940': '#A0522D',  // sienna
+      '1950': '#CD853F',  // peru
+      '1960': '#DAA520',  // goldenrod
+      '1970': '#D2691E',  // chocolate
+      '1980': '#FF8C00',  // dark orange
+      '1990': '#FF4500',  // orange red
+      '2000': '#DC143C',  // crimson
+      '2010': '#B22222',  // firebrick
+      '2020': '#8B0000',  // dark red
+    };
+
+    // getEarliestDecade(tournamentsStr) - parses the semicolon-separated tournament string from our GeoJSON, extracts all 4-digit years, and returns the decade of the earliest
+    // (e.g. "1934 FIFA Men's World Cup; 1990 FIFA Men's World Cup" to "1930" and "1990")
+    // Multi-tournament stadiums are colored by thei first appearance 
+    function getEarliestDecade(tournamentsStr) {
+      const years = tournamentsStr.match(/\d{4}/g);
+      if (!years) return '2020'; // fallback
+      const earliest = Math.min(...years.map(Number));
+      const decade = Math.floor(earliest / 10) * 10;
+      return String(decade);
+    }
+
+    // capacityToPixelSize(capacity) - maps stadium capacity to a dot pixel size using a square-root scale.
+    function capacityToPixelSize(capacity) {
+      const minCap = 5000, maxCap = 200000;
+      const minPx = 6, maxPx = 20;
+      const clamped = Math.max(minCap, Math.min(maxCap, capacity));
+      const t = (Math.sqrt(clamped) - Math.sqrt(minCap))
+              / (Math.sqrt(maxCap) - Math.sqrt(minCap));
+      return minPx + t * (maxPx - minPx);
+    }
+
+    // ── Globe Setup ───────────────────────────────────────────────────
+
+    // Authenticate with Cesium ion
     Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJjYjM5MGRlMC1kMWZhLTQxNWYtODNlOS05MzFkMTk4Y2M3NzAiLCJpZCI6NDYyODk1LCJpc3MiOiJodHRwczovL2FwaS5jZXNpdW0uY29tIiwiYXVkIjoidW5kZWZpbmVkX2RlZmF1bHQiLCJpYXQiOjE3ODU1OTM2NDN9.8AtVNrEpwYIy4b_V42x-xBWunOd2m__gs0AJtWY2ZqU';
 
-    // STEP 2: Create the Viewer
-    // The Viewer is Cesium's top-level object. It creates:
-    //   - A WebGL canvas that renders the 3D globe
-    //   - A scene graph (manages what's drawn and in what order)
-    //   - A camera (your viewpoint — you can fly it anywhere)
-    //   - Built-in UI widgets (home button, geocoder, timeline, etc.)
-    //
-    // The first argument is the ID of the div to render into.
-    // The second argument is an options object — we'll keep it minimal for now.
+    // Create the Viewer
     const viewer = new Cesium.Viewer('cesiumContainer', {
-      // Terrain: this makes the Earth's surface have actual elevation
-      // Asset ID 1 is "Cesium World Terrain" — a global elevation dataset.
       terrain: Cesium.Terrain.fromWorldTerrain(),
     });
 
     Cesium.GeoJsonDataSource.load('data/stadiums.geojson').then(function(dataSource) {
-      viewer.dataSources.add(dataSource)
+      viewer.dataSources.add(dataSource);
 
-      let entities = dataSource.entities.values;
+      const entities = dataSource.entities.values;
       for (let i = 0; i < entities.length; i++) {
-        let entity = entities[i];
-        let properties = entity.properties;
-        
-        // remove default pin
+        const entity = entities[i];
+
+        // entity.properties.X.getValue() — how CesiumJS exposes GeoJSON
+        // feature properties. Each property is a Property object; call
+        // getValue() to get the raw JS value (string, number, etc.).
+        const tournaments = entity.properties.tournaments.getValue();
+        const capacity = entity.properties.capacity.getValue();
+        const decade = getEarliestDecade(tournaments);
+        const hex = DECADE_COLORS[decade] || DECADE_COLORS['2020'];
+
+        // remove the default billboard pin that GeoJsonDataSource creates
         entity.billboard = undefined;
 
-        // add a point
+        // draw point with PointGraphics
         entity.point = new Cesium.PointGraphics({
-          pixelSize: 10,
-          color: Cesium.Color.RED,
+          pixelSize: capacityToPixelSize(capacity),
+          color: Cesium.Color.fromCssColorString(hex),
+          outlineColor: Cesium.Color.WHITE,
+          outlineWidth: 1,
+          heightReference: Cesium.HeightReference.CLAMP_TO_GROUND,  // show full circle
+          disableDepthTestDistance: Number.POSITIVE_INFINITY,
+        });
+
+        // label point with stadium using LabelGraphics
+        const name = entity.properties.name.getValue();
+        const city = entity.properties.city.getValue();
+        entity.label = new Cesium.LabelGraphics({
+          text: name + '\n' + city,
+          font: '14px sans-serif',
+          fillColor: Cesium.Color.WHITE,
+          outlineColor: Cesium.Color.BLACK,
+          outlineWidth: 2,
+          style: Cesium.LabelStyle.FILL_AND_OUTLINE,
+          verticalOrigin: Cesium.VerticalOrigin.BOTTOM,
+          pixelOffset: new Cesium.Cartesian2(0, -12),
+          heightReference: Cesium.HeightReference.CLAMP_TO_GROUND,
+          disableDepthTestDistance: Number.POSITIVE_INFINITY,
+          show: false,
         });
       }
+
+      // EllipsoidalOccluder -> checks whether a point on the globe is visible from the camera or hidden behind the Earth
+      const occluder = new Cesium.EllipsoidalOccluder(
+        viewer.scene.globe.ellipsoid,
+        viewer.camera.positionWC
+      );
+
+      viewer.scene.preRender.addEventListener(function() {
+        occluder.cameraPosition = viewer.camera.positionWC;
+        for (let i = 0; i < entities.length; i++) {
+          const pos = entities[i].position.getValue(viewer.clock.currentTime);
+          if (pos) {
+            entities[i].show = occluder.isPointVisible(pos);
+          }
+        }
+      });
+
+      // use ScreenSpaceEventHandler to allow hover mechanics
+      const handler = new Cesium.ScreenSpaceEventHandler(viewer.scene.canvas);
+      let hoveredEntity = null;
+
+      handler.setInputAction(function(movement) {
+        const picked = viewer.scene.pick(movement.endPosition);
+
+        // hovering something, hide its label
+        if (hoveredEntity) {
+          hoveredEntity.label.show = false;
+          hoveredEntity = null;
+        }
+
+        // if picked an entity that has a label, show it
+        if (Cesium.defined(picked) && picked.id && picked.id.label) {
+          picked.id.label.show = true;
+          hoveredEntity = picked.id;
+        }
+      }, Cesium.ScreenSpaceEventType.MOUSE_MOVE);
+
       viewer.zoomTo(dataSource);
     });
   </script>
